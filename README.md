@@ -57,4 +57,4 @@ To run this project, you need the following libraries:
 
 ## Conclusion
 
-The Starbucks Capstone Project provides valuable insights into customer behavior in response to marketing offers. By predicting customer responses, Starbucks can optimize their promotional strategies to enhance customer engagement and satisfaction. The project showcases the application of data science techniques in real-world business scenarios, highlighting the importance of data-driven decision-making.
+The Starbucks Capstone Project provides valuable insights into customer behavior in response to marketing offers. By predicting customer responses, Starbucks can optimise their promotional strategies to enhance customer engagement and satisfaction. The project showcases the application of data science techniques in real-world business scenarios, highlighting the importance of data-driven decision-making.
